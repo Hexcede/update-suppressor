@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "update_suppression:block/update_suppressor_blank",
+    "east": "update_suppression:block/update_suppressor"
+  }
+}

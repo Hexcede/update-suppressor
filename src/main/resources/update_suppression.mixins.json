@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.hexcede.update_suppression.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "ServerChunkManagerInvoker",
+    "ServerChunkManagerMixin",
+    "MinecraftServerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

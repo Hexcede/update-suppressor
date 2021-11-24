@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "update_suppression:block/update_suppressor" }
+  }
+}

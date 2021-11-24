@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "update_suppression",
+  "version": "${version}",
+  "name": "Update Suppression",
+  "description": "Adds a block which emulates an update suppressor.",
+  "authors": [
+    "Hexcede"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/update_suppression/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.hexcede.update_suppression.UpdateSuppression"
+    ]
+  },
+  "mixins": [
+    "update_suppression.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.5",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}
