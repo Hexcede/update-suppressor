@@ -20,8 +20,10 @@
     "update_suppression.mixins.json"
   ],
   "depends": {
+    "fabric": "*"
+  },
+  "recommends": {
     "fabricloader": ">=0.12.5",
-    "fabric": "*",
     "minecraft": "1.17.1"
   }
 }
