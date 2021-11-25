@@ -1,3 +1,5 @@
 {
-  "block.update_suppression.update_suppressor": "Update Suppressor"
+  "block.update_suppression.update_suppressor": "Update Suppressor",
+  "block.update_suppression.redstone_interface": "Redstone Interface",
+  "itemGroup.update_suppression.main": "Update Suppression"
 }
