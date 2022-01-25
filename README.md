@@ -1,4 +1,4 @@
-# This functionality is provided by the Carpet mod
+# Archival notice: This functionality is provided by the Carpet mod
 
 # Update Suppressor
 
