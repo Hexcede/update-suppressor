@@ -1,3 +1,5 @@
+# This functionality is provided by the Carpet mod
+
 # Update Suppressor
 
 Adds a block which suppresses block updates. Emulates the behaviour of large block update suppressors in the vanilla game, in the form of a single block.
